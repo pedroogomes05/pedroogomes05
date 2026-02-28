@@ -21,22 +21,3 @@
 ---
 
 ## 🚀 Academic Projects
-
-### 🔹 TCP Multi-threaded Server (Kotlin)
-Implementation of a multi-client TCP server with thread management and graceful shutdown.
-**Tech:** Kotlin, TCP Sockets, Concurrency, ThreadScope  
-🔗 [Repository Link](https://github.com/teuuser/teurepo)
-
----
-
-### 🔹 BSC Communication System Simulation
-End-to-end communication system simulation with source coding, Vigenère cipher, repetition code (3,1) and BSC channel.
-**Tech:** Kotlin, Communication Systems  
-🔗 [Repository Link](https://github.com/teuuser/teurepo)
-
----
-
-### 🔹 Concurrent Bounded Stream
-Implementation of a multiple producers/consumers bounded stream using ReentrantLock and Condition.
-**Tech:** Kotlin, Concurrency  
-🔗 [Repository Link](https://github.com/teuuser/teurepo)
